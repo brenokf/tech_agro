@@ -1,5 +1,10 @@
 # TECH AGRO
 
+
+### Use o comando yarn para instalar todos os components do node_modules no arquivo raiz de cada aplicação 
+### `yarn `
+
+
 ## BACK-END
 
 O back-end foi construido em typecript tendo completado todos os bonus pedidos na seleção
